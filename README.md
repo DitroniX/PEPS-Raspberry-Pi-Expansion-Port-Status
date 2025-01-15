@@ -1,25 +1,31 @@
 ## PEPS-Raspberry-Pi-Expansion-Port-Status
 
-Fed up with attaching one or more LEDs to certain pins to check the status of a GPIO, then this **PEPS** Pi Expansion Port Status board monitor is exactly what you need!
+As featured on KickStarter
+[![KickStarter](https://github.com/DitroniX/DitroniX/blob/main/Files/KickStarter-SupportUs.png 'KickStarter')](https://www.kickstarter.com/profile/ditronix/created)
 
-**PEPS** is a Raspberry Pi Expansion Port Status with LEDs on each port.
+### Introduction
 
- - This super easy to use and compact **PEPS** board is great to quicky and instantly see what
-   ports are high, or low
-   
- - Designed to fit on any Raspberry Pi and be left in place as a side PiHat, or temporarily placed over the Raspberry Pi Pin Header for fast debugging
-   
- - Each Raspberry Pi GPIO port has a very low current 5mA LED
- 
- - GPIO port LEDs are group coloured to assist with fast and instant identification of a GPIO type and status
- 
- -  Power 5V and 3V3 LEDS to confirm supplies are up on all four power pins
-   
- - The **PEPS** board is the same size as a Pi Zero (65 x 30mm)
+Remove the need dig through the component box and attach LEDs, Logic probe or fire up the Scope just to quickly check any GPIO pin output status.
 
- - **PEPS** is self powered from the individual GPIO outputs
+**PEPS** simple to use Pi Expansion Port Status monitor board will assist with instant visual information on all GPIO ports and is exactly what you need!
 
- - The underside of the **PEPS** board has a convenient quick lookup of all the Raspberry Pi Pins, Power and GPIOs
+**PEPS** is a Raspberry Pi Expansion Port Status monitor board, with an LED on each port, that is neatly packaged in a compact PiHat mechanical size.
+
+### Specification and Features
+
+-   Super easy to use and compact **PEPS** board is great to quicky and instantly see what ports are high, or low
+-   Designed to fit on any Raspberry Pi and be left in place as a side PiHat, or temporarily placed over the Raspberry Pi Pin Header for fast GPIO debugging
+-   Each Raspberry Pi GPIO port has a very low current 5mA LED, so not to affect the pin state and minimize current.
+-   GPIO port LEDs are group coloured to assist with fast and instant identification of a GPIO type and status
+-   Power 5V and 3V3 LEDS to confirm supplies are up on all four power pins. This is also ideal for other clones of the Raspberry Pi.
+-   The **PEPS** board is the same size as a Pi Zero (65 x 30mm)
+-   **PEPS** is self powered from the individual GPIO outputs
+
+The underside of the **PEPS** board has a convenient quick lookup of all the Raspberry Pi Pins, Power and GPIOs
+
+### **Finally**
+
+Thank you for taking time to read my pledge and hope you are able to support this project in some way.
 
 ==
 
