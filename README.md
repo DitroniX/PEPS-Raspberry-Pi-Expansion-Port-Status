@@ -1,6 +1,6 @@
-## PEPS-Raspberry-Pi-Expansion-Port-Status
+## PEPS Raspberry Pi Expansion Port Status Monitor
 
-As featured on KickStarter
+As featured on KickStarter Feb 2024
 [![KickStarter](https://github.com/DitroniX/DitroniX/blob/main/Files/KickStarter-SupportUs.png 'KickStarter')](https://www.kickstarter.com/profile/ditronix/created)
 
 ### Introduction
