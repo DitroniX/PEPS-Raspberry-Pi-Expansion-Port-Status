@@ -3,6 +3,8 @@
 As featured on KickStarter Feb 2024
 [![KickStarter](https://github.com/DitroniX/DitroniX/blob/main/Files/KickStarter-SupportUs.png 'KickStarter')](https://www.kickstarter.com/profile/ditronix/created)
 
+![PEPS example fitted on a Raspberry Pi with Stacking - providing quick and easy GPIO Status Information](https://github.com/DitroniX/PEPS-Raspberry-Pi-Expansion-Port-Status/blob/main/Datasheets%20and%20Information/PEPS%20Stacked%20on%20IPEM%20PiHat.jpg)
+
 ### Introduction
 
 Remove the need dig through the component box and attach LEDs, Logic probe or fire up the Scope just to quickly check any GPIO pin output status.
