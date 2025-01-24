@@ -11,6 +11,33 @@ Remove the need dig through the component box and attach LEDs, Logic probe or fi
 
 **PEPS** is a Raspberry Pi Expansion Port Status monitor board, with an LED on each port, that is neatly packaged in a compact PiHat mechanical size.
 
+Ideal for:
+
+ - Experimenters 
+ - Developers 
+ - Education, Schools and Universities 
+ - STEM
+ - Learning 
+ - Engineers and Designers 
+ - R&D and Testing 
+ - A super little gadget for the toolbox
+
+![PEPS A super little gadget for the toolbox](https://github.com/DitroniX/PEPS-Raspberry-Pi-Expansion-Port-Status/blob/main/Datasheets%20and%20Information/PEPS%20Raspberry%20Pi%20Expansion%20Port%20Status%20Board.jpg)
+
+**PEPS** is a Raspberry Pi Expansion Port Status monitor board, with an LED on each port, that is neatly packaged in a compact PiHat mechanical size.
+
+**PEPS** has a convenient GPIO chart on the rear.
+
+![PEPS has a convenient GPIO chart on the rear](https://github.com/DitroniX/PEPS-Raspberry-Pi-Expansion-Port-Status/blob/main/Datasheets%20and%20Information/PEPS%20-%20Raspberry%20Pi%20Expansion%20Port%20Status%20GPIO%20Monitor.jpg)
+
+**PEPS** example with stacking header fitted
+![PEPS example with stacking header fitted](https://github.com/DitroniX/PEPS-Raspberry-Pi-Expansion-Port-Status/blob/main/Datasheets%20and%20Information/PEPS%20Raspberry%20Pi%20Expansion%20Port%20Status%20with%20Headers.jpg)
+
+**PEPS** example fitted on a Raspberry Pi with Stacking - providing quick and easy GPIO Status Information
+![PEPS example fitted on a Raspberry Pi with Stacking - providing quick and easy GPIO Status Information](https://github.com/DitroniX/PEPS-Raspberry-Pi-Expansion-Port-Status/blob/main/Datasheets%20and%20Information/PEPS%20Stacked%20on%20IPEM%20PiHat.jpg)
+
+![PEPS example fitted on a Raspberry Pi with Stacking - providing quick and easy GPIO Status Information](https://github.com/DitroniX/PEPS-Raspberry-Pi-Expansion-Port-Status/blob/main/Datasheets%20and%20Information/PEPS%20on%20a%20Raspberry%20Pi.jpg)
+
 ### Specification and Features
 
 -   Super easy to use and compact **PEPS** board is great to quicky and instantly see what ports are high, or low
@@ -22,10 +49,6 @@ Remove the need dig through the component box and attach LEDs, Logic probe or fi
 -   **PEPS** is self powered from the individual GPIO outputs
 
 The underside of the **PEPS** board has a convenient quick lookup of all the Raspberry Pi Pins, Power and GPIOs
-
-### **Finally**
-
-Thank you for taking time to read my pledge and hope you are able to support this project in some way.
 
 ==
 
