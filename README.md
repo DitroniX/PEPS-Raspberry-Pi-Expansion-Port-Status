@@ -1,8 +1,5 @@
 ## PEPS Raspberry Pi Expansion Port Status Monitor
 
-As featured on KickStarter Feb 2025
-[![KickStarter](https://github.com/DitroniX/DitroniX/blob/main/Files/KickStarter-SupportUs.png 'KickStarter')](https://www.kickstarter.com/profile/ditronix/created)
-
 ![PEPS example fitted on a Raspberry Pi with Stacking - providing quick and easy GPIO Status Information](https://github.com/DitroniX/PEPS-Raspberry-Pi-Expansion-Port-Status/blob/main/Datasheets%20and%20Information/PEPS%20Stacked%20on%20IPEM%20PiHat.jpg)
 
 ### Introduction
