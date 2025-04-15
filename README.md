@@ -1,5 +1,7 @@
 ## PEPS Raspberry Pi Expansion Port Status Monitor
 
+![PEPS example fitted on a ESPuno Pi Zero with Stacking - providing quick and easy GPIO Status Information](https://github.com/DitroniX/PEPS-Raspberry-Pi-Expansion-Port-Status/blob/main/Datasheets%20and%20Information/ESPuno%20Pi%20Zero%20with%20PEPS%20Status%20Monitor.png)
+
 ![PEPS example fitted on a Raspberry Pi with Stacking - providing quick and easy GPIO Status Information](https://github.com/DitroniX/PEPS-Raspberry-Pi-Expansion-Port-Status/blob/main/Datasheets%20and%20Information/PEPS%20Stacked%20on%20IPEM%20PiHat.jpg)
 
 ### Introduction
